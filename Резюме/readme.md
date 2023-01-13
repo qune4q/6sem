@@ -21,3 +21,5 @@ https://www.figma.com/community/file/1191982183207827291
 задание 4. наполнение сайта, задание для собеседования(01.02.2023 - 10.02.2023)
 https://github.com/avito-tech/bx-android-trainee-assigment
 (штраф за не выполнение - балл)
+задание 5. определиться с темой конференции (20.02.2023)
+http://alferovconference.ru/
