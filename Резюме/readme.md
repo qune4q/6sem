@@ -1,6 +1,7 @@
 Шаблон программиста https://myresume.ru/examples/programmist/ 
 Figma шаблон сайта резюме https://www.figma.com/community/tag/resume/files
 Нет опыта работы https://guides.hexlet.io/how-to-create-a-resume/#когда-программисту-начинать-составлять-резюме 
+![photo1673854384](https://user-images.githubusercontent.com/50214016/212622348-2cd087e4-7ac6-4e69-84b0-5e3447c92c7f.jpeg)
 
 задание: 1. выписать проф. навыки, которыми должен обладать информационщик, минимум три вакансии (выписать с первой ссылки) (дедлайн 16.01-20.01)
 IT-Специалист, тестировщик, frontend-разработчик, gamedeveloper, веб-разрабочтик, сис-админ.
