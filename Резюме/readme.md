@@ -70,3 +70,5 @@ https://github.com/avito-tech/bx-android-trainee-assigment
 (штраф за не выполнение - балл)
 задание 5. определиться с темой конференции (20.02.2023)
 http://alferovconference.ru/
+
+<BR> Ссылка на сайт: https://kairosde.tb.ru/
