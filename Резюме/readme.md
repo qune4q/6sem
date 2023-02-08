@@ -72,3 +72,5 @@ https://github.com/avito-tech/bx-android-trainee-assigment
 http://alferovconference.ru/
 
 <BR> Ссылка на сайт: https://kairosde.tb.ru/
+<br> GAMEJAMS: https://itch.io/jam/my-first-game-jam-winter-2023
+<BR> https://itch.io/jam/icedev-gamejam-2
