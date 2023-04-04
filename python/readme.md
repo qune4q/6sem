@@ -237,3 +237,4 @@ while (vid_capture.isOpened()):
             break
     else:
         break
+https://colab.research.google.com/drive/13oIcpWIFv6T67UMyBKfAwDc95XQQmggw?hl=ru
