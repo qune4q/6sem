@@ -1,3 +1,4 @@
+https://colab.research.google.com/drive/13oIcpWIFv6T67UMyBKfAwDc95XQQmggw?hl=ru
 https://colab.research.google.com/drive/1A4wcZpfyV4gCtdYvFmWv06b0Okf6KQnE?usp=sharing
 <br> import cv2
 
